@@ -5,21 +5,21 @@ const initialFriends = [
     id: 118836,
     name: "CJ",
     image:
-      "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/317432525_3010293279116565_498695074301600319_n.jpg?stp=cp6_dst-jpg&_nc_cat=106&ccb=1-7&_nc_sid=9c7eae&_nc_ohc=hRIyjw53zEkAX-x-prO&_nc_ht=scontent-dfw5-2.xx&oh=00_AfBiIIB5jumGtgMQymMgS4C34NZx0WnUqPOnUmRqCFyKVQ&oe=657F3858",
+      "https://media.istockphoto.com/id/639805094/photo/happy-man.jpg?s=2048x2048&w=is&k=20&c=ZQ6wQcNJWMQEJo51gxRbMAjBO3AmgEnt2qsw3rLBImw=",
     balance: -7,
   },
   {
     id: 933372,
     name: "Tony",
     image:
-      "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/340012017_2447266472121533_4273700429670192539_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=-1scO855tNQAX8ccQdz&_nc_ht=scontent-dfw5-2.xx&oh=00_AfAnZgoN1jFPN0cWJMA5rTpr52etCE_rYW6DERNGVqdpOA&oe=657E1E3D",
+      "https://media.istockphoto.com/id/1358205700/photo/shot-of-a-young-man-using-his-smartphone-to-send-text-messages.jpg?s=2048x2048&w=is&k=20&c=xcPnZq2OAwRcnBFAo6MBd7YcYRHbEJxz0drh5z5RlCc=",
     balance: 20,
   },
   {
     id: 499476,
     name: "Jason",
     image:
-      "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/336225975_1201576507132818_2441101160090227439_n.jpg?stp=cp6_dst-jpg&_nc_cat=100&ccb=1-7&_nc_sid=9c7eae&_nc_ohc=Eg8kFzai-nsAX-OHrW1&_nc_ht=scontent-dfw5-2.xx&oh=00_AfA_ZHhYsQdyynJv195IZKQutgP4JCm4X5YFV30C3rMQ2w&oe=657EADEC",
+      "https://media.istockphoto.com/id/1090837964/photo/handsome-man-laughing.jpg?s=2048x2048&w=is&k=20&c=NEzdjgYHE4v9CpitTPMUL_Qfbkt77hATttv_ixXb0UA=",
     balance: 0,
   },
 ];
